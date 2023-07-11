@@ -1,0 +1,33 @@
+.hero-area{
+    display: flex;
+    background: rgba(229, 84, 115, 0.10);
+    padding-top: 50px;
+}
+.hero-left-area{
+    width: 50%;
+}
+.hero-right-area{
+    width: 50%;
+    text-align: center;
+}
+.hero-right-area img{
+    width: 60%;
+   
+}
+.button{
+    background-color: #E55473;
+    color: white;
+    padding: 20px 43px;
+    font-size: 18px;
+    border-radius: 5px;
+    border: none;
+}
+p{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+}
+h1{
+    color: #272727;
+    font-family: Lato;
+    font-size: 50px;
+}
