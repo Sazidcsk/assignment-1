@@ -31,3 +31,32 @@ h1{
     font-family: Lato;
     font-size: 50px;
 }
+section{
+    margin-top: 60px;
+}
+.social-area{
+    text-align: center;
+}
+.social-area-main{
+    width: 1200px;
+    margin: auto;
+}
+.images-social{
+    text-align: center;
+ }
+ .sub-area{
+    width: 1200px;
+    margin: auto;
+    text-align: center;
+    background: url('images/Rectangle\ 9.png');
+    background-repeat: no-repeat;
+    padding: 60px 0px;
+ }
+.footer{
+    background: #111010;
+    text-align: center;
+    color: white;
+}
+.footer p{
+    color: white;
+}
