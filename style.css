@@ -1,3 +1,37 @@
+.container {
+    display: flex;
+    background-color: rgb(58, 72, 70);
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    color:rgb(255, 255, 255);
+    
+
+}
+.logo-container{
+    font-size: 35px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.menu-container {
+    display: flex;
+    list-style: none;
+    margin-right: 20px;
+
+}
+
+.list {
+    margin-right: 20px;
+}
+
+.list:hover {
+    background-color: rgb(97, 53, 71);
+    padding: 15px;
+    border-radius: 5%;
+    cursor: pointer;
+}
+
 .hero-area{
     display: flex;
     background: rgba(229, 84, 115, 0.10);
@@ -53,10 +87,15 @@ section{
     padding: 60px 0px;
  }
 .footer{
+    padding: 20px;
     background: #111010;
     text-align: center;
     color: white;
 }
 .footer p{
     color: white;
+}
+span{
+    color: #E55473;
+    font-size: 30px;
 }
